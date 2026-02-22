@@ -17,7 +17,8 @@
 
 ## 📌 Projeto em destaque
 
-💄 Aura Beauty – Landing page de perfumes 
+💄 **Aura Beauty** – Landing page moderna de perfumes desenvolvida com HTML e CSS.  
+🔗 https://karenoliveirajp-stack.github.io/Projeto-Aura-Beauty-/
 
 ---
 
