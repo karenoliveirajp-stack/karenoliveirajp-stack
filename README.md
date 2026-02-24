@@ -1,4 +1,4 @@
-# 👋 Oii, eu sou  Karen Oliveira!
+# 👋 Oii, eu sou  Karen Giselle!
 
 🎓 Estudante de ADS  
 💻 Apaixonada por Front-End  
